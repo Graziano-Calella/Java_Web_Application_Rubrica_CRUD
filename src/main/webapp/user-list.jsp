@@ -14,7 +14,7 @@
 		<div class="row justify-content-center">
 			<div class="col-8">
 				<h1 class="display-1 text-center">List of Users</h1>
-				<a href="<%=request.getContextPath()%>/new" class="btn btn-success">Add New User</a>
+				<a href="<%=request.getContextPath()%>/new" class="btn btn-success my-3">Add New User</a>
 				
 				<table class="table table-striped">
 					<thead>
